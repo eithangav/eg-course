@@ -1,2 +1,3 @@
 # eg-course
-Eithan Gavrieli's repository for mobile developing course
+Name: Eithan Gavrieli
+This is my repository for mobile developing course
